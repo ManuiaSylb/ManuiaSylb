@@ -23,9 +23,12 @@ I'm passionate about exploring **creative applications** and turning ideas into 
         <img id='dockerICO' witdh = '10%' height = '25em' display='inline' src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=Docker&logoColor=white"/>
         <img id='MySQLICO' witdh = '50%' height = '27em' display='inline' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     </div>
-    <div display='inline-block' margin-top = '0'></br>
-    <p> 📫 <b>How to reach me:</b> </p>
-    - [Email](mailto:manuia.sylvestrebaron@gmail.com)
-    - [LinkedIn](https://www.linkedin.com/in/manuiasylvestrebaron)
+    <div align="left" style="margin-top: 0;">
+          <p>📫 <b>How to reach me:</b></p>
+      <ul>
+        <li><a href="mailto:manuia.sylvestrebaron@gmail.com">Email</a></li>
+        <li><a href="https://www.linkedin.com/in/manuiasylvestrebaron" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/manuiasylvestrebaron" target="_blank">GitHub</a></li>
+      </ul>
     </div>
 </body>
