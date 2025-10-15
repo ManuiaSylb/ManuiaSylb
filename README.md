@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hello, World! I'm Manuia Sylvestre Baron
 
-<!--
-**ManuiaSylb/ManuiaSylb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm a Computer Science engineer specialized in **data engineering, machine learning, and Full-Stack development**.  
+I design and build **intelligent, practical, and scalable solutions** that bridge the gap between innovation and real-world use.
 
-Here are some ideas to get you started:
+⚙️ My expertise includes **Python development, data processing, AI model integration**.  
+I'm passionate about exploring **creative applications** and turning ideas into working prototypes and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm currently seeking opportunities in **data engineering, Full-Stack development, or tech consulting**, where I can contribute to impactful projects and grow alongside innovative teams.
+
+---
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
+<body>
+    <div display='inline-block' margin-bottom = '0'>
+        <img height='250em' align='left' width = '40%' margin-bottom = 0px src='https://github-readme-stats.vercel.app/api?username=manuiasylb&theme=graywhite&show_icons=true'></img>
+       <!-- <img height='200em' width = '40%' margin-top = 0px src='https://github-readme-stats.vercel.app/api/top-langs/?username=lgdutras&theme=graywhite&show_icons=true'><br> -->
+    </div>    </br></br>
+    <div display='inline-block' margin-top = '0'>    
+    <p> 🧰 <b>My Toolbox:</b> </p>
+        <img id='PythonICO' witdh = '10%' height = '25em' display='inline' src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+        <img id='dockerICO' witdh = '10%' height = '25em' display='inline' src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+        <img id='MySQLICO' witdh = '50%' height = '27em' display='inline' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    </div>
+    <div display='inline-block' margin-top = '0'></br>
+    <p> 📫 <b>How to reach me:</b> </p>
+    - [Email](mailto:manuia.sylvestrebaron@gmail.com)
+    - [LinkedIn](https://www.linkedin.com/in/manuiasylvestrebaron)
+    </div>
+</body>
