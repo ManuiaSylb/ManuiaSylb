@@ -20,7 +20,7 @@ I'm passionate about exploring **creative applications** and turning ideas into 
     <div display='inline-block' margin-top = '0'>    
     <p> 🧰 <b>My Toolbox:</b> </p>
         <img id='PythonICO' witdh = '10%' height = '25em' display='inline' src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-        <img id='dockerICO' witdh = '10%' height = '25em' display='inline' src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+        <img id='dockerICO' witdh = '10%' height = '25em' display='inline' src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=Docker&logoColor=white"/>
         <img id='MySQLICO' witdh = '50%' height = '27em' display='inline' src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     </div>
     <div display='inline-block' margin-top = '0'></br>
