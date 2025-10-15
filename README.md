@@ -28,7 +28,6 @@ I'm passionate about exploring **creative applications** and turning ideas into 
       <ul>
         <li><a href="mailto:manuia.sylvestrebaron@gmail.com">Email</a></li>
         <li><a href="https://www.linkedin.com/in/manuiasylvestrebaron" target="_blank">LinkedIn</a></li>
-        <li><a href="https://github.com/manuiasylvestrebaron" target="_blank">GitHub</a></li>
       </ul>
     </div>
 </body>
