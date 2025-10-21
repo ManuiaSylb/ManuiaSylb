@@ -1,12 +1,12 @@
 ## 👋 Hello, World! I'm Manuia Sylvestre Baron
 
-💼 I'm a Computer Science engineer specialized in **data engineering, machine learning, and Full-Stack development**.  
+💼 I'm a Computer Science engineer specialized in **data science and machine learning**.  
 I design and build **intelligent, practical, and scalable solutions** that bridge the gap between innovation and real-world use.
 
 ⚙️ My expertise includes **Python development, data processing, AI model integration**.  
 I'm passionate about exploring **creative applications** and turning ideas into working prototypes and tools.
 
-🚀 I'm currently seeking opportunities in **data engineering, Full-Stack development, or tech consulting**, where I can contribute to impactful projects and grow alongside innovative teams.
+🚀 I'm currently seeking opportunities in **data science**, where I can contribute to impactful projects and grow alongside innovative teams.
 
 ---
 <head>
