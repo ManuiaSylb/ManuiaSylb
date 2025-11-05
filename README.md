@@ -14,7 +14,7 @@ I'm passionate about exploring **creative applications** and turning ideas into 
 </head>
 <body>
     <div display='inline-block' margin-bottom = '0'>
-        <img height='250em' align='left' width = '40%' margin-bottom = 0px src='https://github-readme-stats.vercel.app/api?username=manuiasylb&theme=graywhite&show_icons=true'></img>
+        <img height='250em' align='left' width = '40%' margin-bottom = 0px src='https://github-readme-stats.vercel.app/api?username=manuiasylb&theme=gmidnight-purple&show_icons=true'></img>
        <!-- <img height='200em' width = '40%' margin-top = 0px src='https://github-readme-stats.vercel.app/api/top-langs/?username=lgdutras&theme=graywhite&show_icons=true'><br> -->
     </div>    </br></br>
     <div display='inline-block' margin-top = '0'>    
